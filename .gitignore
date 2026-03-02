@@ -1,3 +1,4 @@
 .env.production
 node_modules/
 dist/
+infra/.env
